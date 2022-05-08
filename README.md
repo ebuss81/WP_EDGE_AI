@@ -9,7 +9,7 @@ MCDCNN:
 - Input: 
   - data preprocessed by a z-score normalization.
   - Raw test and train data available, code for nomalization too.
-  - 
+  
 - Output:
   - Array of five probabilities [no stimulus, wind, temperature, blue light, red light] = [class 0, class 1,class 2, class 3, class 4]
 
