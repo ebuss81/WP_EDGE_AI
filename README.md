@@ -7,7 +7,7 @@ To run AI on STMs the sofware package X-Cube-AI need to be installed (https://wi
 MCDCNN:
 
 - Input: 
-  - data preprocessed by a z-score normalization.
+  - Data preprocessed by a z-score normalization.
   - Raw test and train data available, code for nomalization too.
   
 - Output:
@@ -19,7 +19,7 @@ STM:
 -IMPORTANT: Do not generate codea via CubeMX otherwise important c-code will be deleted. If you need to run Cube-MX, let me know. I will point you to the deleted code.
 
 -The important code for you is in main.c
-  1) Arrays of each class are available in line 62 - 71
+  1) Example data of each class are available in line 62 - 71
   2) The input array of the ANN is build in the for loop at line 202
   3) The network classifies at line 207
   4) A comparison of the probabilites is done at line 216
