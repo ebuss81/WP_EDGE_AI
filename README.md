@@ -2,7 +2,7 @@
 ANN in STMs:
 We use the MCDCNN, iter 0, as example network. First it is converted from .hdf5 to .tflite (mcdcnnBest.tflite).
 
-To run AI on STMs the sofware package X-Cube-AI need to be installed (https://wiki.stmicroelectronics.cn/stm32mcu/wiki/AI:X-CUBE-AI_documentation).
+To run AI on STMs the sofware package X-Cube-AI need to be installed (https://wiki.stmicroelectronics.cn/stm32mcu/wiki/AI:X-CUBE-AI_documentation , https://www.digikey.de/en/videos/d/digi-key-electronics/tinyml-getting-started-with-stm32-x-cube-ai-digi-key-electronics).
 
 MCDCNN:
 
